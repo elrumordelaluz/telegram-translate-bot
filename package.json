@@ -1,0 +1,16 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-google-translate-skidz": "^1.1.0",
+    "node-telegram-bot-api": "^0.25.0"
+  }
+}

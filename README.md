@@ -1,0 +1,5 @@
+#telegram-translate-bot
+
+A simple Telegram Bot to translate into Italian
+
+[Bot URL](https://telegram.me/ItalianizationBot)
